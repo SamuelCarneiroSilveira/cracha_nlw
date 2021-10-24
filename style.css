@@ -19,7 +19,7 @@ body {
 }
 
 main {
-  background: url(./images/Background.svg); /*Coloca a imagem como background*/
+  background: url(images/Background.svg); /*Coloca a imagem como background*/
   width: 375px; /* Largura da imagem */
   height: 812px; /* Altura da imagem */
 }
